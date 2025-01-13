@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React + Typescript projects<br>👯 I’m looking to collaborate on Frontend related projects<br>🤝 I’m looking for a mentor to speed up my growth <br>🌱 I’m currently learning Unit Testing<br>💬 Ask me about Frontend Development, Headless CMS, Search Engine Optimization<br>⚡ About Me: I love Coffee, Swimming, and Watching TV Series
+🔭 I’m currently working on React + Typescript projects<br>👯 I’m mastering my knowledge on Machine Learning algorithms<br>🤝 I’m looking for a mentor to speed up my growth <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Frontend Development, Headless CMS, Search Engine Optimization, and ML<br>⚡ About Me: I love Coffee, Swimming, and Watching TV Series
 
 
 ## 🌐 Socials:
