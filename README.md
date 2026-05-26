@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React + Next.JS + Typescript projects<br>👯 <br>💬 Ask me about Frontend Development, Headless CMS, and Search Engine Optimization<br>⚡ About Me: I love Coffee, Swimming, and Watching TV Series
+🔭 I’m currently working on React + Next.JS + Typescript projects <br>💬 Ask me about Frontend Development, Headless CMS, and Search Engine Optimization<br>⚡ About Me: I love Coffee, Swimming, and Watching TV Series
 
 
 ## 🌐 Socials:
